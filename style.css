@@ -1,0 +1,11 @@
+body{
+    overflow-x: hidden;
+}
+.nav-contact{
+list-style: none;
+
+}
+.nav-contact a{
+    text-decoration: none;
+    color: #ffff;
+}
